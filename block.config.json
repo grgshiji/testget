@@ -1,0 +1,16 @@
+{
+  "name": "testget",
+  "type": "package",
+  "blockId": "Mobv0Z7TcsSh5tUz7zijJ",
+  "source": {
+    "https": "https://github.com/grgshiji/testget.git",
+    "ssh": "git@github.com:grgshiji/testget.git",
+    "branch": "block_testget"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
